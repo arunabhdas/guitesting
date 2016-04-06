@@ -1,4 +1,4 @@
 guitesting
 ----------
 
-guitesting is a library for testing GUIs 
+guitesting is a project for demonstrating GUI testing using Xcode 
